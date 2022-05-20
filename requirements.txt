@@ -2,6 +2,7 @@ numpy
 Pillow
 yt-dlp
 aiohttp
+tldextract
 filetype
 hachoir
 olefile
